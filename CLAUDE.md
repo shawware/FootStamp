@@ -1,7 +1,7 @@
 # Footer
 
 A script that stamps a footer onto every page of a combined PDF: a text identifier
-on the left, "Page N/M" on the right. See `Brief.txt` for the original requirements.
+on the left, "Page N/M" on the right.
 
 ## Layout
 
