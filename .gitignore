@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environment
+.venv/
+
+# PDFs are inputs/outputs of this script, not source — and may be large or contain sensitive content.
+*.pdf
